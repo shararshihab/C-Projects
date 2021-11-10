@@ -1,0 +1,12 @@
+/freeCodeCamp
+/w3resource
+/Giraffe
+conio.c
+*/bin
+*/obj
+*.cbp
+*.depend
+*.layout
+*.txt
+*.exe
+*.o
